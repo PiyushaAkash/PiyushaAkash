@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/akashwickramage" target="blank"><img src="https://img.shields.io/twitter/follow/akashwickramage?logo=twitter&style=for-the-badge" alt="akashwickramage" /></a> </p>
 
-- 🌱 I’m currently learning **Cyber security / Linux / Autimations**
+- 🌱 I’m currently learning **Cyber security / Linux / Automations / Programming**
 
 - 📫 How to reach me **iakashwickramage@gmail.com**
 
